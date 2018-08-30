@@ -1,0 +1,25 @@
+{ 
+  "channels" : [
+    {
+      "title" : "여기GO",
+      "fbNativeInterval" : "2",
+      "fbNativeReload" : "true",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "url" : "http://m.post.naver.com/my/series/detail/",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "",
+      "memberNo" : "17118548",
+      "seriesNo" : "465972",
+      "item" : [
+          { "title" : "", "id" : "", "img" : "", "sort" : "1"}
+      ]
+    }    
+  ]
+}
